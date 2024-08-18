@@ -46,11 +46,10 @@ jobs:
           CDNJS_BASE_URL: https://cdnjs.baoshuo.ren/ajax/libs
 
       - name: Upload Build Output to Artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: dist
           path: ${{ github.workspace }}/out/
-          if-no-files-found: error
+          retention-days: 30
 
   deploy-gh-pages:
     name: Deploy Site to GitHub Pages
@@ -69,7 +68,6 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          artifact_name: dist
           ## Is this attempting to deploy a pull request as a GitHub Pages preview site?
           ## NOTE: This feature is only in alpha currently and is not available to the public!
-          # preview: ${{ github.event_name != 'push' }}
+          preview: false # ${{ github.event_name != 'push' }}
