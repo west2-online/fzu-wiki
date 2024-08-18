@@ -46,7 +46,7 @@ jobs:
           CDNJS_BASE_URL: https://cdnjs.baoshuo.ren/ajax/libs
 
       - name: Upload Build Output to Artifacts
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ github.workspace }}/out/
           retention-days: 30
