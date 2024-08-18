@@ -46,7 +46,7 @@ jobs:
           CDNJS_BASE_URL: https://cdnjs.baoshuo.ren/ajax/libs
 
       - name: Upload Build Output to Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: dist
           path: ${{ github.workspace }}/out/
