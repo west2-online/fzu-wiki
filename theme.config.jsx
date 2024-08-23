@@ -6,7 +6,7 @@ const config = {
   project: {
     link: 'https://github.com/west2-online/fzu-wiki',
   },
-  docsRepositoryBase: 'https://github.com/west2-online/fzu-wiki',
+  docsRepositoryBase: 'https://github.com/west2-online/fzu-wiki/tree/main',
   useNextSeoProps() {
     const { asPath } = useRouter();
     if (asPath !== '/') {
@@ -33,6 +33,19 @@ const config = {
         </small>
       </div>
     ),
+  },
+  editLink: {
+    text: '在 GitHub 上编辑此页',
+  },
+  feedback: {
+    content: '有疑问？马上反馈',
+    labels: 'feedback',
+  },
+  toc: {
+    title: '目录',
+  },
+  search: {
+    placeholder: '搜索...',
   },
 };
 
