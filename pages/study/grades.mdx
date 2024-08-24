@@ -1,1 +1,135 @@
+import { Callout } from 'nextra/components';
+
+
 # 绩点、学分、奖学金
+
+<Callout type="default" emoji="🤯">
+  此部分是 ~~内卷指南~~ 关于绩点、学分、奖学金的内容，可能会有一些不够全面的地方，欢迎指正。
+</Callout>
+
+## 课程类型
+在介绍和讲解绩点和学分的知识之前，我们先来看看福州大学有几种课程类型。
+
+从**评分方式**的角度来看，FZU一共有3种课程类型：
+- **百分制**：也就是满分是100分的课程，类似于我们高中时期的历史政治化学，是最常规的一种课程，比如高等数学，大学英语等。
+- **五级制**：满分是5级的课程，依次分别为优秀、良好、中等、及格、不及格。
+- **二级制**：满分是2级的课程，依次分别为合格、不合格。
+
+## 学分
+学分可以这么通俗理解：**越难的课程，课时数越多的课程，越重要的课程，学分就越高。**
+
+每个课程都有他所对应的一个学分，少则1分，多则5分7分甚至更高都有。
+
+## 绩点
+由于大学里的课程有不一样的教学内容和教学方式，因此我们就会有不同的评分方式（详见[课程类型](#课程类型)），所以当我们需要对不同的课程进行评价时，就需要有一个统一的评价标准，这就是**绩点**。下面是各种成绩录入形式与绩点的对应关系。
+
+<table style={{marginTop:'16px',borderCollapse: 'collapse', width: '100%' }}>
+  <thead>
+    <tr>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>百分制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>百分制绩点</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>五级制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>五级制绩点</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>两级制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>两级制绩点</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>90-100</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>4.0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">优秀</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">4.0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="10">合格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="10">不计算绩点</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>85-89</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.7</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>81-84</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.3</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">良好</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">3.0</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>78-80</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.0</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>75-77</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.7</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="3">中等</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="3">2.0</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>72-74</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.3</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>68-71</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.0</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>64-67</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>1.7</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}rowSpan="2" >及格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}rowSpan="2" >1.3</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>60-63</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>1.3</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0-59</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>不及格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0</td>
+    </tr>
+  </tbody>
+</table>
+
+但我们平时口中提的绩点通常是**平均学分绩点**，也就是**GPA**，简单来说就是一个大学生的**课内平均学习成绩**。类似于我们高中时期的平均分，但是绩点是用**每门课的学分来加权平均**的。
+
+<Callout type="info">
+  有某些课程是不算入绩点的，比如**校选课**，他们的学分是算入学分的，但是不会计入绩点，所以只要过了就行，优秀良好中等本质上没区别。
+</Callout>
+
+也就是说：
+<img
+  src="/GPA.svg"
+  width="100%"
+  style={{ display: 'flex' ,justifyContent:'center', borderRadius: '8px', marginBottom: '1%' }}
+/>
+当你想计算**整个大学四年八个学期的GPA**时，就把**大学生涯里所有的课程**代到上面那个公式计算就行了。
+
+当你想计算你**这个学期的GPA**时，就把**这个学期的课程**代到上面那个公式计算就行了。
+
+## 奖学金
+大学的奖学金的获取方式和初高中不一样。除了学期奖学金，FZU的奖学金都是需要自己申请的，坐等是拿不到的。
+
+### 学期奖学金
+
+学期奖学金是根据**学期绩点**（也就是这个学期的GPA）和**学期德育**来评定的。
+
+**大一大二**的话，比重分别是**80%和20%**。**大三大四**的话，比重分别是**70%和30%**。
+
+评定比例根据班级类型不同有所区别，基地班、综合班的获奖人数不超过专业人数的**36%**，其中一等奖不超过**6%**，一、二等奖总和不超过**16%**；
+
+非基地班、综合班的获奖人数不超过专业人数的**18%**，其中一等奖不超过**3%**，一、二等奖总和不超过**8%**。
+
+### 其他奖学金
+
+基本上所有奖学金是根据**学生的综合素质**来评定的，通常需要我们填写**申请表**，附带一些申请理由的**佐证材料**（比如获奖证书啊、志愿时长证明等），然后提交到学校的相关部门审核并评定。
+
+不过申请奖学金的佼佼者众多，而名额有限，所以并不是每个人都能拿到奖学金的。
+
+当你成功入围名单的话，如果你所申请的奖学金含金量较高、金额较大的话，可能还需要答辩、面试等环节。
+
+当你过关斩将并成功拿到了奖学金，学校会在**福州大学五四评优**上颁奖并统一表彰，并且会在名单出来的时候第一时间在**学院官网**上公示获奖名单。
