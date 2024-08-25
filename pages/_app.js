@@ -1,3 +1,4 @@
+/* eslint-disable node/no-unsupported-features/es-syntax */
 import Script from 'next/script';
 
 function MyApp({ Component, pageProps }) {
