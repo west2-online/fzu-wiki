@@ -11,7 +11,7 @@
   "author": "Baoshuo <i@baoshuo.ren>",
   "license": "MIT",
   "dependencies": {
-    "next": "^14.2.15",
+    "next": "^14.2.21",
     "nextra": "^2.13.4",
     "nextra-theme-docs": "^2.13.4",
     "react": "^18.3.1",
