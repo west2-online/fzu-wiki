@@ -72,3 +72,14 @@ jobs:
           ## Is this attempting to deploy a pull request as a GitHub Pages preview site?
           ## NOTE: This feature is only in alpha currently and is not available to the public!
           preview: false # ${{ github.event_name != 'push' }}
+
+      - name: Wait for GitHub Pages propagation
+        run: sleep 10
+
+      - name: Refresh Tencent Cloud CDN
+        uses: linrongda/tencent-cdn-action@v1
+        with:
+          secret_id: ${{ secrets.QCLOUD_SECRET_ID }}
+          secret_key: ${{ secrets.QCLOUD_SECRET_KEY }}
+          action: purgePath
+          paths: '["http://fzuwiki.west2.online/"]'
