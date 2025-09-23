@@ -14,3 +14,12 @@ pages目录及其子目录下的_meta.json存放的是当前目录中的文件/�
 yarn install
 yarn next dev
 ```
+
+## 图片转为 WebP
+
+项目中图片需转换为 WebP ，使用 [AnyWebp](https://mail.anywebp.com/ch/convert-to-webp.html) 进行转换
+
+**注：webp图像质量统一为80，gif和svg不宜转为webp**
+
+
+
