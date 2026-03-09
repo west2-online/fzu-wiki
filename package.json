@@ -8,7 +8,6 @@
     "start": "next start"
   },
   "repository": "https://github.com/west2-online/fzu-wiki.git",
-  "author": "Baoshuo <i@baoshuo.ren>",
   "license": "MIT",
   "dependencies": {
     "next": "^15.5.10",
@@ -22,11 +21,11 @@
     "@types/node": "^22.4.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "@typescript-eslint/eslint-plugin": "^8.1.0",
-    "@typescript-eslint/parser": "^8.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.56.1",
+    "@typescript-eslint/parser": "^8.56.1",
     "eslint": "=8.57.0",
     "eslint-config-baoshuo": "^0.0.2",
-    "eslint-config-next": "^14.2.5",
+    "eslint-config-next": "^15.5.10",
     "eslint-config-react": "^1.1.7",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.29.1",
