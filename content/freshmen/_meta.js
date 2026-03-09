@@ -1,0 +1,8 @@
+export default {
+  prepare: '入学准备',
+  dormitory: '寝室配置',
+  net: '校园网',
+  militarytraining: '军训',
+  official: '官方文章',
+  tools: '常用工具和网站',
+}

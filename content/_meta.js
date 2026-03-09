@@ -1,0 +1,7 @@
+export default {
+  index: '首页',
+  school: '学校篇',
+  freshmen: '新生篇',
+  life: '生活篇',
+  study: '学习篇',
+}

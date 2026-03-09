@@ -1,0 +1,4 @@
+export default {
+  intro: '学校介绍',
+  map: '校园地图',
+}
