@@ -8,12 +8,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-and-deploy:
+    name: Build and Deploy
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
-          persist-credentials: false
           fetch-depth: 0
 
       - name: Use Node.js 22
@@ -30,41 +33,13 @@ jobs:
         env:
           CDNJS_BASE_URL: https://cdnjs.baoshuo.ren/ajax/libs
 
-      - name: Upload Build Output to Artifacts
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to gh-pages Branch
+        if: github.event_name == 'push'
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: ${{ github.workspace }}/out/
-          retention-days: 30
-
-  deploy-gh-pages:
-    name: Deploy Site to GitHub Pages
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    needs: [build]
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        with:
-          ## Is this attempting to deploy a pull request as a GitHub Pages preview site?
-          ## NOTE: This feature is only in alpha currently and is not available to the public!
-          preview: false # ${{ github.event_name != 'push' }}
-
-      # - name: Wait for GitHub Pages propagation
-      #   run: sleep 10
-
-      # - name: Refresh Tencent Cloud CDN
-      #   uses: linrongda/tencent-cdn-action@v2
-      #   with:
-      #     secret_id: ${{ secrets.QCLOUD_SECRET_ID }}
-      #     secret_key: ${{ secrets.QCLOUD_SECRET_KEY }}
-      #     action: purgePath
-      #     paths: |
-      #       http://fzuwiki.west2.online/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          allow_empty_commit: true
+          cname: fzuwiki.west2.online
