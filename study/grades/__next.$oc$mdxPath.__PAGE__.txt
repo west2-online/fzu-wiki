@@ -1,0 +1,177 @@
+1:"$Sreact.fragment"
+2:I[55169,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"TOCProvider"]
+3:I[769,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"Sidebar"]
+4:I[47486,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ClientWrapper"]
+9:I[63894,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"HeadingAnchor"]
+28:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+:HL["/GPA.svg","image"]
+5:T1e62,import { Callout } from 'nextra/components';
+
+
+# 绩点、学分、奖学金
+
+<Callout type="default" emoji="🤯">
+  此部分是 ~~内卷指南~~ 关于绩点、学分、奖学金的内容，可能会有一些不够全面的地方，欢迎指正。
+</Callout>
+
+## 课程类型
+在介绍和讲解绩点和学分的知识之前，我们先来看看福州大学有几种课程类型。
+
+从**评分方式**的角度来看，FZU一共有3种课程类型：
+- **百分制**：也就是满分是100分的课程，类似于我们高中时期的历史政治化学，是最常规的一种课程，比如高等数学，大学英语等。
+- **五级制**：满分是5级的课程，依次分别为优秀、良好、中等、及格、不及格。
+- **二级制**：满分是2级的课程，依次分别为合格、不合格。
+
+## 学分
+学分可以这么通俗理解：**越难的课程，课时数越多的课程，越重要的课程，学分就越高。**
+
+每个课程都有他所对应的一个学分，少则1分，多则5分7分甚至更高都有。
+
+## 绩点
+由于大学里的课程有不一样的教学内容和教学方式，因此我们就会有不同的评分方式（详见[课程类型](#课程类型)），所以当我们需要对不同的课程进行评价时，就需要有一个统一的评价标准，这就是**绩点**。下面是各种成绩录入形式与绩点的对应关系。
+
+<table style={{marginTop:'16px',borderCollapse: 'collapse', width: '100%' }}>
+  <thead>
+    <tr>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>百分制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>百分制绩点</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>五级制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>五级制绩点</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>两级制</th>
+      <th style={{ border: '1px solid #000', padding: '8px' }}>两级制绩点</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>90-100</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>4.0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">优秀</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">4.0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="10">合格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="10">不计算绩点</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>85-89</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.7</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>81-84</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.3</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">良好</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="2">3.0</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>78-80</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>3.0</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>75-77</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.7</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="3">中等</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }} rowSpan="3">2.0</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>72-74</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.3</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>68-71</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>2.0</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>64-67</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>1.7</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}rowSpan="2" >及格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}rowSpan="2" >1.3</td>
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>60-63</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>1.3</td>
+
+    </tr>
+    <tr>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0-59</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>不及格</td>
+      <td style={{ border: '1px solid #000', padding: '8px', textAlign: 'center' }}>0</td>
+    </tr>
+  </tbody>
+</table>
+
+但我们平时口中提的绩点通常是**平均学分绩点**，也就是**GPA**，简单来说就是一个大学生的**课内平均学习成绩**。类似于我们高中时期的平均分，但是绩点是用**每门课的学分来加权平均**的。
+
+<Callout type="info">
+  有某些课程是不算入绩点的，比如**校选课**，他们的学分是算入学分的，但是不会计入绩点，所以只要过了就行，优秀良好中等本质上没区别。
+</Callout>
+
+也就是说：
+<img
+  src="/GPA.svg"
+  width="100%"
+  style={{ display: 'flex' ,justifyContent:'center', borderRadius: '8px', marginBottom: '1%' }}
+/>
+当你想计算**整个大学四年八个学期的GPA**时，就把**大学生涯里所有的课程**代到上面那个公式计算就行了。
+
+当你想计算你**这个学期的GPA**时，就把**这个学期的课程**代到上面那个公式计算就行了。
+
+## 奖学金
+大学的奖学金的获取方式和初高中不一样。除了学期奖学金，FZU的奖学金都是需要自己申请的，坐等是拿不到的。
+
+### 学期奖学金
+
+学期奖学金是根据**学期绩点**（也就是这个学期的GPA）和**学期德育**来评定的。
+
+**大一大二**的话，比重分别是**80%和20%**。**大三大四**的话，比重分别是**70%和30%**。
+
+评定比例根据班级类型不同有所区别，基地班、综合班的获奖人数不超过专业人数的**36%**，其中一等奖不超过**6%**，一、二等奖总和不超过**16%**；
+
+非基地班、综合班的获奖人数不超过专业人数的**18%**，其中一等奖不超过**3%**，一、二等奖总和不超过**8%**。
+
+### 其他奖学金
+
+基本上所有奖学金是根据**学生的综合素质**来评定的，通常需要我们填写**申请表**，附带一些申请理由的**佐证材料**（比如获奖证书啊、志愿时长证明等），然后提交到学校的相关部门审核并评定。
+
+不过申请奖学金的佼佼者众多，而名额有限，所以并不是每个人都能拿到奖学金的。
+
+当你成功入围名单的话，如果你所申请的奖学金含金量较高、金额较大的话，可能还需要答辩、面试等环节。
+
+当你过关斩将并成功拿到了奖学金，学校会在**福州大学五四评优**上颁奖并统一表彰，并且会在名单出来的时候第一时间在**学院官网**上公示获奖名单。0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L2",null,{"value":[{"value":"课程类型","id":"课程类型","depth":2},{"value":"学分","id":"学分","depth":2},{"value":"绩点","id":"绩点","depth":2},{"value":"奖学金","id":"奖学金","depth":2},{"value":"学期奖学金","id":"学期奖学金","depth":3},{"value":"其他奖学金","id":"其他奖学金","depth":3}],"children":[["$","$L3",null,{}],["$","$L4",null,{"metadata":{"title":"绩点、学分、奖学金","filePath":"content/study/grades.mdx","timestamp":1773049549000},"sourceCode":"$5","children":["$L6","$L7"]}]]}]}],null,"$L8"]}],"loading":null,"isPartial":false}
+6:["$","div",null,{"id":"nextra-skip-nav"}]
+7:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["绩点、学分、奖学金","$undefined"]}],"\n",["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-green-100 x:dark:bg-green-900/30 x:text-green-700 x:dark:text-green-500 x:border-green-700 x:dark:border-green-800","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":{"fontFamily":"\"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""},"data-pagefind-ignore":"all","children":"🤯"}],["$","div",null,{"className":"x:w-full x:min-w-0","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["此部分是 ",["$","del",null,{"children":"内卷指南"}]," 关于绩点、学分、奖学金的内容，可能会有一些不够全面的地方，欢迎指正。"]}]}]]}],"\n",["$","h2",null,{"id":"课程类型","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["课程类型",["$","$L9",null,{"id":"课程类型"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"在介绍和讲解绩点和学分的知识之前，我们先来看看福州大学有几种课程类型。"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["从",["$","strong",null,{"children":"评分方式"}],"的角度来看，FZU一共有3种课程类型："]}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"百分制"}],"：也就是满分是100分的课程，类似于我们高中时期的历史政治化学，是最常规的一种课程，比如高等数学，大学英语等。"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"五级制"}],"：满分是5级的课程，依次分别为优秀、良好、中等、及格、不及格。"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"二级制"}],"：满分是2级的课程，依次分别为合格、不合格。"]}],"\n"]}],"\n",["$","h2",null,{"id":"学分","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["学分",["$","$L9",null,{"id":"学分"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["学分可以这么通俗理解：",["$","strong",null,{"children":"越难的课程，课时数越多的课程，越重要的课程，学分就越高。"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"每个课程都有他所对应的一个学分，少则1分，多则5分7分甚至更高都有。"}],"\n",["$","h2",null,{"id":"绩点","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["绩点",["$","$L9",null,{"id":"绩点"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["由于大学里的课程有不一样的教学内容和教学方式，因此我们就会有不同的评分方式（详见",["$","a",null,{"href":"#%E8%AF%BE%E7%A8%8B%E7%B1%BB%E5%9E%8B","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"课程类型"}],"），所以当我们需要对不同的课程进行评价时，就需要有一个统一的评价标准，这就是",["$","strong",null,{"children":"绩点"}],"。下面是各种成绩录入形式与绩点的对应关系。"]}],"\n",["$","table",null,{"style":{"marginTop":"16px","borderCollapse":"collapse","width":"100%"},"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"百分制"}],["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"百分制绩点"}],["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"五级制"}],["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"五级制绩点"}],["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"两级制"}],["$","th",null,{"style":{"border":"1px solid #000","padding":"8px"},"children":"两级制绩点"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"90-100"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"4.0"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"优秀"}],"$La","$Lb","$Lc"]}],"$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15"]}]]}],"\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27"]}]
+8:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+a:["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"4.0"}]
+b:["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"10","children":"合格"}]
+c:["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"10","children":"不计算绩点"}]
+d:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"85-89"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"3.7"}]]}]
+e:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"81-84"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"3.3"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"良好"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"3.0"}]]}]
+f:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"78-80"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"3.0"}]]}]
+10:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"75-77"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"2.7"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"3","children":"中等"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"3","children":"2.0"}]]}]
+11:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"72-74"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"2.3"}]]}]
+12:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"68-71"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"2.0"}]]}]
+13:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"64-67"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"1.7"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"及格"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"rowSpan":"2","children":"1.3"}]]}]
+14:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"60-63"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"1.3"}]]}]
+15:["$","tr",null,{"children":[["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"0-59"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"0"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"不及格"}],["$","td",null,{"style":{"border":"1px solid #000","padding":"8px","textAlign":"center"},"children":"0"}]]}]
+16:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["但我们平时口中提的绩点通常是",["$","strong",null,{"children":"平均学分绩点"}],"，也就是",["$","strong",null,{"children":"GPA"}],"，简单来说就是一个大学生的",["$","strong",null,{"children":"课内平均学习成绩"}],"。类似于我们高中时期的平均分，但是绩点是用",["$","strong",null,{"children":"每门课的学分来加权平均"}],"的。"]}]
+17:["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-blue-100 x:dark:bg-blue-900/30 x:text-blue-700 x:dark:text-blue-400 x:border-blue-700 x:dark:border-blue-600","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":"$7:props:children:2:props:children:0:props:style","data-pagefind-ignore":"all","children":["$","svg",null,{"viewBox":"0 0 16 16","fill":"currentColor","height":".8em","className":"x:mt-[.3em]","children":["$","path",null,{"d":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"}]}]}],["$","div",null,{"className":"x:w-full x:min-w-0","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["有某些课程是不算入绩点的，比如",["$","strong",null,{"children":"校选课"}],"，他们的学分是算入学分的，但是不会计入绩点，所以只要过了就行，优秀良好中等本质上没区别。"]}]}]]}]
+18:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"也就是说："}]
+19:["$","img",null,{"src":"/GPA.svg","width":"100%","style":{"display":"flex","justifyContent":"center","borderRadius":"8px","marginBottom":"1%"}}]
+1a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["当你想计算",["$","strong",null,{"children":"整个大学四年八个学期的GPA"}],"时，就把",["$","strong",null,{"children":"大学生涯里所有的课程"}],"代到上面那个公式计算就行了。"]}]
+1b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["当你想计算你",["$","strong",null,{"children":"这个学期的GPA"}],"时，就把",["$","strong",null,{"children":"这个学期的课程"}],"代到上面那个公式计算就行了。"]}]
+1c:["$","h2",null,{"id":"奖学金","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["奖学金",["$","$L9",null,{"id":"奖学金"}]]}]
+1d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"大学的奖学金的获取方式和初高中不一样。除了学期奖学金，FZU的奖学金都是需要自己申请的，坐等是拿不到的。"}]
+1e:["$","h3",null,{"id":"学期奖学金","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["学期奖学金",["$","$L9",null,{"id":"学期奖学金"}]]}]
+1f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["学期奖学金是根据",["$","strong",null,{"children":"学期绩点"}],"（也就是这个学期的GPA）和",["$","strong",null,{"children":"学期德育"}],"来评定的。"]}]
+20:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"大一大二"}],"的话，比重分别是",["$","strong",null,{"children":"80%和20%"}],"。",["$","strong",null,{"children":"大三大四"}],"的话，比重分别是",["$","strong",null,{"children":"70%和30%"}],"。"]}]
+21:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["评定比例根据班级类型不同有所区别，基地班、综合班的获奖人数不超过专业人数的",["$","strong",null,{"children":"36%"}],"，其中一等奖不超过",["$","strong",null,{"children":"6%"}],"，一、二等奖总和不超过",["$","strong",null,{"children":"16%"}],"；"]}]
+22:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["非基地班、综合班的获奖人数不超过专业人数的",["$","strong",null,{"children":"18%"}],"，其中一等奖不超过",["$","strong",null,{"children":"3%"}],"，一、二等奖总和不超过",["$","strong",null,{"children":"8%"}],"。"]}]
+23:["$","h3",null,{"id":"其他奖学金","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["其他奖学金",["$","$L9",null,{"id":"其他奖学金"}]]}]
+24:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["基本上所有奖学金是根据",["$","strong",null,{"children":"学生的综合素质"}],"来评定的，通常需要我们填写",["$","strong",null,{"children":"申请表"}],"，附带一些申请理由的",["$","strong",null,{"children":"佐证材料"}],"（比如获奖证书啊、志愿时长证明等），然后提交到学校的相关部门审核并评定。"]}]
+25:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"不过申请奖学金的佼佼者众多，而名额有限，所以并不是每个人都能拿到奖学金的。"}]
+26:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"当你成功入围名单的话，如果你所申请的奖学金含金量较高、金额较大的话，可能还需要答辩、面试等环节。"}]
+27:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["当你过关斩将并成功拿到了奖学金，学校会在",["$","strong",null,{"children":"福州大学五四评优"}],"上颁奖并统一表彰，并且会在名单出来的时候第一时间在",["$","strong",null,{"children":"学院官网"}],"上公示获奖名单。"]}]
+2a:null

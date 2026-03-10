@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[55169,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"TOCProvider"]
+3:I[769,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"Sidebar"]
+4:I[47486,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ClientWrapper"]
+6:I[63894,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"HeadingAnchor"]
+1c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+:HL["/freshmen-dormitory-tongpan.gif","image"]
+:HL["/freshmen-dormitory-tongpan-1.webp","image"]
+:HL["/freshmen-dormitory-tongpan-2.webp","image"]
+5:T907,import { Callout } from 'nextra/components';
+
+# 寝室配置
+
+以招生简章和录取通知里的为准，空调、独立卫浴、上床下桌是标配（不是的会特别说明）
+
+<Callout type="info">
+  除旗山校区外，内容可能发生变动，以学校录取通知书为准
+</Callout>
+
+## 旗山
+
+福州市闽侯县大学城，主校区，无特殊说明都在旗山。有 1-5 区和 1.5 区，五区一般是研究生，其他的看各学院情况问自己直系。一区是六人间，其他是四人间。五区的研究生一般是三人间。
+
+## 铜盘
+
+福州市鼓楼区软件园，共 10 栋楼，四人间/只住四人的六人间，少部分上下铺。第一年入驻第二年回旗山校区的学院如下：
+
+- 本科：除梅努斯、音乐学以外所有普招代码专业
+- 硕士：经管、外院、法学、人文（除音乐）
+
+铜盘校区的四人间采用上床下桌的布局，具体配置：
+
+- 配有冷暖双频空调。
+- 阳台上设有独立卫浴，采用干湿分离设计。
+- 每张床的尺寸为 0.9 米宽、2.0 米长和 1.2 米高。
+- 配备了双开门衣柜，内部有一个隔板和一个挂衣杆。
+- 每张桌子带有三个储物格和一个储物柜。
+
+<img
+  src="/freshmen-dormitory-tongpan.gif"
+  width="100%"
+  style={{ display: 'flex' ,justifyContent:'center', borderRadius: '8px', marginBottom: '1%' }}
+/>
+<div style={{ display: 'flex',justifyContent:'center' }}>
+  <img
+    src="/freshmen-dormitory-tongpan-1.webp"
+    style={{ width: '49.5%', marginRight:'0.5%', borderRadius: '8px' }}
+  />
+  <img
+    src="/freshmen-dormitory-tongpan-2.webp"
+    style={{ width: '49.5%', marginLeft:'0.5%', borderRadius: '8px' }}
+  />
+</div>
+
+## 晋江
+
+泉州市晋江市金井镇，硕士三人间/本科四人间，配备有落地床、书桌、衣柜，具体可参考相关链接，先进制造学院入驻。
+
+## 怡山
+
+福州市鼓楼区，老校区，极少数硕士，今年没有本一批入驻，少数无独卫。
+
+## 泉港
+
+泉州市泉港区，宿舍二人寝，化工学院专属校区，目前供研二研三使用。
+
+## 集美
+
+厦门市集美区，女四人间/男六人间，厦工艺美院专属校区。
+
+## 上杭
+
+龙岩市上杭县，紫金学院地矿类大三实习校区
+
+---
+
+参考资料：
+
+- 「福大学工」公众号0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L2",null,{"value":[{"value":"旗山","id":"旗山","depth":2},{"value":"铜盘","id":"铜盘","depth":2},{"value":"晋江","id":"晋江","depth":2},{"value":"怡山","id":"怡山","depth":2},{"value":"泉港","id":"泉港","depth":2},{"value":"集美","id":"集美","depth":2},{"value":"上杭","id":"上杭","depth":2}],"children":[["$","$L3",null,{}],["$","$L4",null,{"metadata":{"title":"寝室配置","filePath":"content/freshmen/dormitory.mdx","timestamp":1773049549000},"sourceCode":"$5","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["寝室配置","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"以招生简章和录取通知里的为准，空调、独立卫浴、上床下桌是标配（不是的会特别说明）"}],"\n",["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-blue-100 x:dark:bg-blue-900/30 x:text-blue-700 x:dark:text-blue-400 x:border-blue-700 x:dark:border-blue-600","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":{"fontFamily":"\"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""},"data-pagefind-ignore":"all","children":["$","svg",null,{"viewBox":"0 0 16 16","fill":"currentColor","height":".8em","className":"x:mt-[.3em]","children":["$","path",null,{"d":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"}]}]}],["$","div",null,{"className":"x:w-full x:min-w-0","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"除旗山校区外，内容可能发生变动，以学校录取通知书为准"}]}]]}],"\n",["$","h2",null,{"id":"旗山","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["旗山",["$","$L6",null,{"id":"旗山"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福州市闽侯县大学城，主校区，无特殊说明都在旗山。有 1-5 区和 1.5 区，五区一般是研究生，其他的看各学院情况问自己直系。一区是六人间，其他是四人间。五区的研究生一般是三人间。"}],"\n",["$","h2",null,{"id":"铜盘","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["铜盘","$L7"]}],"\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a"]}]]}]]}]}],null,"$L1b"]}],"loading":null,"isPartial":false}
+7:["$","$L6",null,{"id":"铜盘"}]
+8:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福州市鼓楼区软件园，共 10 栋楼，四人间/只住四人的六人间，少部分上下铺。第一年入驻第二年回旗山校区的学院如下："}]
+9:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"本科：除梅努斯、音乐学以外所有普招代码专业"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"硕士：经管、外院、法学、人文（除音乐）"}],"\n"]}]
+a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"铜盘校区的四人间采用上床下桌的布局，具体配置："}]
+b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"配有冷暖双频空调。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"阳台上设有独立卫浴，采用干湿分离设计。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"每张床的尺寸为 0.9 米宽、2.0 米长和 1.2 米高。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"配备了双开门衣柜，内部有一个隔板和一个挂衣杆。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"每张桌子带有三个储物格和一个储物柜。"}],"\n"]}]
+c:["$","img",null,{"src":"/freshmen-dormitory-tongpan.gif","width":"100%","style":{"display":"flex","justifyContent":"center","borderRadius":"8px","marginBottom":"1%"}}]
+d:["$","div",null,{"style":{"display":"flex","justifyContent":"center"},"children":[["$","img",null,{"src":"/freshmen-dormitory-tongpan-1.webp","style":{"width":"49.5%","marginRight":"0.5%","borderRadius":"8px"}}],["$","img",null,{"src":"/freshmen-dormitory-tongpan-2.webp","style":{"width":"49.5%","marginLeft":"0.5%","borderRadius":"8px"}}]]}]
+e:["$","h2",null,{"id":"晋江","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["晋江",["$","$L6",null,{"id":"晋江"}]]}]
+f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"泉州市晋江市金井镇，硕士三人间/本科四人间，配备有落地床、书桌、衣柜，具体可参考相关链接，先进制造学院入驻。"}]
+10:["$","h2",null,{"id":"怡山","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["怡山",["$","$L6",null,{"id":"怡山"}]]}]
+11:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福州市鼓楼区，老校区，极少数硕士，今年没有本一批入驻，少数无独卫。"}]
+12:["$","h2",null,{"id":"泉港","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["泉港",["$","$L6",null,{"id":"泉港"}]]}]
+13:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"泉州市泉港区，宿舍二人寝，化工学院专属校区，目前供研二研三使用。"}]
+14:["$","h2",null,{"id":"集美","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["集美",["$","$L6",null,{"id":"集美"}]]}]
+15:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"厦门市集美区，女四人间/男六人间，厦工艺美院专属校区。"}]
+16:["$","h2",null,{"id":"上杭","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["上杭",["$","$L6",null,{"id":"上杭"}]]}]
+17:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"龙岩市上杭县，紫金学院地矿类大三实习校区"}]
+18:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+19:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"参考资料："}]
+1a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"「福大学工」公众号"}],"\n"]}]
+1b:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1e:null

@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[55169,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"TOCProvider"]
+3:I[769,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"Sidebar"]
+4:I[47486,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ClientWrapper"]
+6:I[63894,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"HeadingAnchor"]
+20:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+5:T13c9,# 选课
+
+本页描述本科生选课规则和选课经验。
+
+## 选课规则
+
+福大选课不采用“抢课”模式，而是“投积分”模式，因此不必蹲点，只需在规定时间内投好积分进行预选，等待结果即可。预选期间可无限次保存，结果一般在每一轮结束后一段时间出来。
+
+选课在教务处网站（ https://jwch.fzu.edu.cn/ ）进行，该网站一般不需要校园网就能访问，但由于年代较为久远，有时不太稳定。
+
+也可以在福uu-工具箱-选课中进行，本质是一样的。
+
+
+## 选课类型
+
+### 学期选课
+
+新生进来的第一个学期不需要学期选课，由教务处确定。后续每一学期的选课会在上一学期末进行。包含通识教育必修、专业必修、学科基础必修、专业选修、跨学科等类型。
+
+由于有3轮选课，一般可以保证选到比较满意的课程。如果仍有漏选改选需求，可等待下学期初补退选通知，补退选期间即选即中。
+
+参考[24年第一学期选课通知](https://jwch.fzu.edu.cn/info/1036/13569.htm)，选课分为3轮，前两轮为投积分方式，最后一轮为即选即中方式，即先选先中。
+
+对于每一种类型的课程，**最初各有课程数\*20的总积分**。不同类型的课程在选课界面的背景颜色不同。
+
+> 系统处理原则：
+>
+> 1.由于各专业开课门数不一致，为了更能体现公平，处理过程系统自动将各同学**每门课程投下的积分除以该同学的总积分形成积分比**。
+>
+> 2.系统的选中处理：根据各课程具体上课班级的投分情况和限选人数，**从高积分比往低积分比依次提取名单**。对于未达到限选人数的上课班级，系统将形成人数差额，供同学下一轮继续选课，对于超过限选人数的上课班级，系统将依次从高积分比往低积分比抽取名单**直至达到限选人数**，对于相同积分比但超过限选人数的同学将采取随机抽取的办法。
+>
+> 3.第一轮选课结束后未选满课程的同学，可以参与第二轮的选课。积分算法将**根据具体未选上课程总数重新分配总积分**，前两轮选课过程和结果处理方法都一致。第二轮还未选满课程的同学可以参加第三轮选课，第三轮选课采用即选即中的方式。
+
+简而言之，对于每一课程，投的分数越高，越有可能选中，但总分有限，需要权衡。
+
+### 校选课
+
+即通识教育选修课选课。一般在学期初进行，包含人文社会科学类、文学与艺术类、劳动教育类等类型，具体学分要求参照培养计划。
+
+参考[往年通知](https://jwch.fzu.edu.cn/info/1038/13277.htm)，校选课规则如下：
+
+> 1、选课采用投积分、分轮次进行的方式，先**预选**后由系统统一处理选课结果。每轮选课初始，系统给予**每位同学100个积分**，同学根据自己的选课计划自由划分这些积分。每轮选课结束后系统根据最终积分（详见积分计算方法）大小按从高到低排序以确定中选名单，对于积分相同但超过限选人数的同学将采取随机抽取的办法。已选中的课程在选课时间内均可自由退选。
+> 
+> 2、每门课最终积分=所投积分*年级基数
+> 
+> 所投积分：必须为大于0且小等于100的整数；
+> 
+> 年级基数：毕业班为100%、三年级和五年制专业四年级为85%、其它年级为70%。
+
+简而言之，规则与学期选课相似，但毕业剩余最后两年的同学选中概率更高；一门课选的人太少可能会被取消，得重新选。
+
+### 重修选课、辅修选课
+
+笔者没有这方面的经验，期待同学们补充。
+
+## 选课建议
+
+- 参照自己的培养方案（可在教务系统侧栏学业状况-培养方案，或者福uu查询），尽早修完所需学分，降低后期压力，避免毕业延期。
+- 选课时多打听，可以加一些选课交流群，或者咨询学长，不同的老师有不同的教学风格，会带来不同的体验和收获。
+
+## 选课技巧
+
+### 对于学期选课
+
+- 第一轮选课的时候，重要程度低的课可以给1分（最少给1分），让更重要的课先选上；
+- 实践课和理论课老师相匹配，所以不会选满，第一轮给1分，在后面确定选上理论课老师后，如果和实践课所选的老师没对应上再改一下就行了。
+
+### 对于校选课
+
+- 有网课和线下课，如果选择网课会轻松一些，但也有可能因为忘记刷课、忘记考试导致不及格，没法得到对应学分；
+- 网课的不同平台各有特点。如智慧树，课程视频中夹杂选择题；超星尔雅（学习通）必须学完视频课程才能答章节小测、答期末考，视频播放中鼠标移出自动暂停等，酌情选择。
+- 第一轮可能没有放出全部课程（尤其是网课），后续轮会开新的课，可关注；
+- 没选上不用急，如前面所述，年级越高选中概率越高，一般毕业前都能修满。0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L2",null,{"value":[{"value":"选课规则","id":"选课规则","depth":2},{"value":"选课类型","id":"选课类型","depth":2},{"value":"学期选课","id":"学期选课","depth":3},{"value":"校选课","id":"校选课","depth":3},{"value":"重修选课、辅修选课","id":"重修选课辅修选课","depth":3},{"value":"选课建议","id":"选课建议","depth":2},{"value":"选课技巧","id":"选课技巧","depth":2},{"value":"对于学期选课","id":"对于学期选课","depth":3},{"value":"对于校选课","id":"对于校选课","depth":3}],"children":[["$","$L3",null,{}],["$","$L4",null,{"metadata":{"title":"选课","filePath":"content/study/choosecourse.mdx","timestamp":1773049549000},"sourceCode":"$5","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["选课","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"本页描述本科生选课规则和选课经验。"}],"\n",["$","h2",null,{"id":"选课规则","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["选课规则",["$","$L6",null,{"id":"选课规则"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福大选课不采用“抢课”模式，而是“投积分”模式，因此不必蹲点，只需在规定时间内投好积分进行预选，等待结果即可。预选期间可无限次保存，结果一般在每一轮结束后一段时间出来。"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["选课在教务处网站（ ",["$","a",null,{"href":"https://jwch.fzu.edu.cn/","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["https://jwch.fzu.edu.cn/",[" ","$L7"]]}]," ）进行，该网站一般不需要校园网就能访问，但由于年代较为久远，有时不太稳定。"]}],"\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e"]}]]}]]}]}],null,"$L1f"]}],"loading":null,"isPartial":false}
+7:["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]
+8:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"也可以在福uu-工具箱-选课中进行，本质是一样的。"}]
+9:["$","h2",null,{"id":"选课类型","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["选课类型",["$","$L6",null,{"id":"选课类型"}]]}]
+a:["$","h3",null,{"id":"学期选课","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["学期选课",["$","$L6",null,{"id":"学期选课"}]]}]
+b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"新生进来的第一个学期不需要学期选课，由教务处确定。后续每一学期的选课会在上一学期末进行。包含通识教育必修、专业必修、学科基础必修、专业选修、跨学科等类型。"}]
+c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"由于有3轮选课，一般可以保证选到比较满意的课程。如果仍有漏选改选需求，可等待下学期初补退选通知，补退选期间即选即中。"}]
+d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["参考",["$","a",null,{"href":"https://jwch.fzu.edu.cn/info/1036/13569.htm","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["24年第一学期选课通知",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}],"，选课分为3轮，前两轮为投积分方式，最后一轮为即选即中方式，即先选先中。"]}]
+e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["对于每一种类型的课程，",["$","strong",null,{"children":"最初各有课程数*20的总积分"}],"。不同类型的课程在选课界面的背景颜色不同。"]}]
+f:["$","blockquote",null,{"className":"x:not-first:mt-[1.25em] x:border-gray-300 x:italic x:text-gray-700 x:dark:border-gray-700 x:dark:text-gray-400 x:border-s-2 x:ps-[1.5em]","children":["\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"系统处理原则："}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["1.由于各专业开课门数不一致，为了更能体现公平，处理过程系统自动将各同学",["$","strong",null,{"children":"每门课程投下的积分除以该同学的总积分形成积分比"}],"。"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["2.系统的选中处理：根据各课程具体上课班级的投分情况和限选人数，",["$","strong",null,{"children":"从高积分比往低积分比依次提取名单"}],"。对于未达到限选人数的上课班级，系统将形成人数差额，供同学下一轮继续选课，对于超过限选人数的上课班级，系统将依次从高积分比往低积分比抽取名单",["$","strong",null,{"children":"直至达到限选人数"}],"，对于相同积分比但超过限选人数的同学将采取随机抽取的办法。"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["3.第一轮选课结束后未选满课程的同学，可以参与第二轮的选课。积分算法将",["$","strong",null,{"children":"根据具体未选上课程总数重新分配总积分"}],"，前两轮选课过程和结果处理方法都一致。第二轮还未选满课程的同学可以参加第三轮选课，第三轮选课采用即选即中的方式。"]}],"\n"]}]
+10:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"简而言之，对于每一课程，投的分数越高，越有可能选中，但总分有限，需要权衡。"}]
+11:["$","h3",null,{"id":"校选课","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["校选课",["$","$L6",null,{"id":"校选课"}]]}]
+12:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"即通识教育选修课选课。一般在学期初进行，包含人文社会科学类、文学与艺术类、劳动教育类等类型，具体学分要求参照培养计划。"}]
+13:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["参考",["$","a",null,{"href":"https://jwch.fzu.edu.cn/info/1038/13277.htm","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["往年通知",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}],"，校选课规则如下："]}]
+14:["$","blockquote",null,{"className":"x:not-first:mt-[1.25em] x:border-gray-300 x:italic x:text-gray-700 x:dark:border-gray-700 x:dark:text-gray-400 x:border-s-2 x:ps-[1.5em]","children":["\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["1、选课采用投积分、分轮次进行的方式，先",["$","strong",null,{"children":"预选"}],"后由系统统一处理选课结果。每轮选课初始，系统给予",["$","strong",null,{"children":"每位同学100个积分"}],"，同学根据自己的选课计划自由划分这些积分。每轮选课结束后系统根据最终积分（详见积分计算方法）大小按从高到低排序以确定中选名单，对于积分相同但超过限选人数的同学将采取随机抽取的办法。已选中的课程在选课时间内均可自由退选。"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"2、每门课最终积分=所投积分*年级基数"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"所投积分：必须为大于0且小等于100的整数；"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"年级基数：毕业班为100%、三年级和五年制专业四年级为85%、其它年级为70%。"}],"\n"]}]
+15:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"简而言之，规则与学期选课相似，但毕业剩余最后两年的同学选中概率更高；一门课选的人太少可能会被取消，得重新选。"}]
+16:["$","h3",null,{"id":"重修选课辅修选课","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["重修选课、辅修选课",["$","$L6",null,{"id":"重修选课辅修选课"}]]}]
+17:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"笔者没有这方面的经验，期待同学们补充。"}]
+18:["$","h2",null,{"id":"选课建议","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["选课建议",["$","$L6",null,{"id":"选课建议"}]]}]
+19:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"参照自己的培养方案（可在教务系统侧栏学业状况-培养方案，或者福uu查询），尽早修完所需学分，降低后期压力，避免毕业延期。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"选课时多打听，可以加一些选课交流群，或者咨询学长，不同的老师有不同的教学风格，会带来不同的体验和收获。"}],"\n"]}]
+1a:["$","h2",null,{"id":"选课技巧","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["选课技巧",["$","$L6",null,{"id":"选课技巧"}]]}]
+1b:["$","h3",null,{"id":"对于学期选课","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["对于学期选课",["$","$L6",null,{"id":"对于学期选课"}]]}]
+1c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"第一轮选课的时候，重要程度低的课可以给1分（最少给1分），让更重要的课先选上；"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"实践课和理论课老师相匹配，所以不会选满，第一轮给1分，在后面确定选上理论课老师后，如果和实践课所选的老师没对应上再改一下就行了。"}],"\n"]}]
+1d:["$","h3",null,{"id":"对于校选课","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["对于校选课",["$","$L6",null,{"id":"对于校选课"}]]}]
+1e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"有网课和线下课，如果选择网课会轻松一些，但也有可能因为忘记刷课、忘记考试导致不及格，没法得到对应学分；"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"网课的不同平台各有特点。如智慧树，课程视频中夹杂选择题；超星尔雅（学习通）必须学完视频课程才能答章节小测、答期末考，视频播放中鼠标移出自动暂停等，酌情选择。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"第一轮可能没有放出全部课程（尤其是网课），后续轮会开新的课，可关注；"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"没选上不用急，如前面所述，年级越高选中概率越高，一般毕业前都能修满。"}],"\n"]}]
+1f:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+22:null

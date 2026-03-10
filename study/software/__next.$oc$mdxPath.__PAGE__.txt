@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[55169,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"TOCProvider"]
+3:I[769,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"Sidebar"]
+4:I[47486,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ClientWrapper"]
+6:I[63894,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"HeadingAnchor"]
+15:I[22016,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],""]
+16:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+:HL["/wps-1.webp","image"]
+:HL["/wps-2.webp","image"]
+:HL["/tencent-meeting-1.webp","image"]
+:HL["/tencent-meeting-2.webp","image"]
+5:T989,import { Callout } from 'nextra/components';
+
+# 正版化软件
+
+福州大学会为在校学生提供正版化软件的使用权限。以下是一些常用软件的获取方式：
+
+## WPS 365
+
+可以享受云空间、模板、AI 等等同于 WPS 最高会员的权益。
+
+1. 在[官网](https://www.wps.cn/)下载并安装 WPS
+2. 在登录界面选择 “SSO 专属账号”
+3. 输入 “fzu” 后输入学号密码等信息即可
+
+<div style={{ display: 'flex',justifyContent:'center' }}>
+  <img
+    src="/wps-1.webp"
+    style={{ width: '49.5%', marginRight:'0.5%', borderRadius: '8px', border: '1px solid #ccc' }}
+  />
+  <img
+    src="/wps-2.webp"
+    style={{ width: '49.5%', marginLeft:'0.5%', borderRadius: '8px', border: '1px solid #ccc' }}
+  />
+</div>
+
+4. 使用刚刚登录好的企业账号点击此 [链接](https://365.kdocs.cn/l/ck0SRgWknFzR) 逐个领取会员权益（如果不是企业账号会要求申请查看，请点击右上角头像按照上面的步骤再进行一次登录）
+
+<Callout type="info">
+   该领取链接有一定时效性，每年会在福州大学公众号上发布新的链接，请关注公众号获取最新信息。
+</Callout>
+
+## 腾讯会议 教育增强版
+
+可享受不限时长、人数等会议增强权益。
+
+1. 在[官网](https://meeting.tencent.com/)下载并安装腾讯会议。
+2. 在登录界面选择 “SSO”。
+3. 输入 “fzu” 后输入学号密码等信息即可。
+
+<div style={{ display: 'flex',justifyContent:'center' }}>
+  <img
+    src="/tencent-meeting-1.webp"
+    style={{ width: '49.5%', marginRight:'0.5%', borderRadius: '8px', border: '1px solid #ccc' }}
+  />
+  <img
+    src="/tencent-meeting-2.webp"
+    style={{ width: '49.5%', marginLeft:'0.5%', borderRadius: '8px', border: '1px solid #ccc' }}
+  />
+</div>
+
+## 其他软件
+
+下列较少使用的软件可以在 [福州大学 网信办正版化软件管理平台](https://wxb.fzu.edu.cn/zbhrjgl.htm) 获取
+
+- 银河麒麟操作系统
+- 统信桌面操作系统
+- WPS信创版本
+- 中望CAD
+- 中国卡伦特在线CAD
+- 等
+
+当然，许多软件也都能凭教育邮箱获取，关于教育邮箱可以参考 [教育邮箱](vpnmail.mdx) 页面，下面是列举的一些有提供教育邮箱获取的正版化软件：
+
+- Microsoft 365（包括 Word、Excel、PowerPoint 等）
+- JetBrains 系列（包括 IntelliJ IDEA、PyCharm 等）
+- Autodesk 系列（包括 AutoCAD、Maya 等）
+- Notion
+- Figma
+- 等0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L2",null,{"value":[{"value":"WPS 365","id":"wps-365","depth":2},{"value":"腾讯会议 教育增强版","id":"腾讯会议-教育增强版","depth":2},{"value":"其他软件","id":"其他软件","depth":2}],"children":[["$","$L3",null,{}],["$","$L4",null,{"metadata":{"title":"正版化软件","filePath":"content/study/software.mdx","timestamp":1773049549000},"sourceCode":"$5","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["正版化软件","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福州大学会为在校学生提供正版化软件的使用权限。以下是一些常用软件的获取方式："}],"\n",["$","h2",null,{"id":"wps-365","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["WPS 365",["$","$L6",null,{"id":"wps-365"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"可以享受云空间、模板、AI 等等同于 WPS 最高会员的权益。"}],"\n",["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["在",["$","a",null,{"href":"https://www.wps.cn/","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["官网",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}],"下载并安装 WPS"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"在登录界面选择 “SSO 专属账号”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"输入 “fzu” 后输入学号密码等信息即可"}],"\n"]}],"\n",["$","div",null,{"style":{"display":"flex","justifyContent":"center"},"children":["$L7","$L8"]}],"\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13"]}]]}]]}]}],null,"$L14"]}],"loading":null,"isPartial":false}
+7:["$","img",null,{"src":"/wps-1.webp","style":{"width":"49.5%","marginRight":"0.5%","borderRadius":"8px","border":"1px solid #ccc"}}]
+8:["$","img",null,{"src":"/wps-2.webp","style":{"width":"49.5%","marginLeft":"0.5%","borderRadius":"8px","border":"1px solid #ccc"}}]
+9:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","start":"4","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["使用刚刚登录好的企业账号点击此 ",["$","a",null,{"href":"https://365.kdocs.cn/l/ck0SRgWknFzR","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["链接",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}]," 逐个领取会员权益（如果不是企业账号会要求申请查看，请点击右上角头像按照上面的步骤再进行一次登录）"]}],"\n"]}]
+a:["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-blue-100 x:dark:bg-blue-900/30 x:text-blue-700 x:dark:text-blue-400 x:border-blue-700 x:dark:border-blue-600","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":{"fontFamily":"\"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""},"data-pagefind-ignore":"all","children":["$","svg",null,{"viewBox":"0 0 16 16","fill":"currentColor","height":".8em","className":"x:mt-[.3em]","children":["$","path",null,{"d":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"}]}]}],["$","div",null,{"className":"x:w-full x:min-w-0","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"该领取链接有一定时效性，每年会在福州大学公众号上发布新的链接，请关注公众号获取最新信息。"}]}]]}]
+b:["$","h2",null,{"id":"腾讯会议-教育增强版","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["腾讯会议 教育增强版",["$","$L6",null,{"id":"腾讯会议-教育增强版"}]]}]
+c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"可享受不限时长、人数等会议增强权益。"}]
+d:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["在",["$","a",null,{"href":"https://meeting.tencent.com/","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["官网",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}],"下载并安装腾讯会议。"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"在登录界面选择 “SSO”。"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"输入 “fzu” 后输入学号密码等信息即可。"}],"\n"]}]
+e:["$","div",null,{"style":{"display":"flex","justifyContent":"center"},"children":[["$","img",null,{"src":"/tencent-meeting-1.webp","style":{"width":"49.5%","marginRight":"0.5%","borderRadius":"8px","border":"1px solid #ccc"}}],["$","img",null,{"src":"/tencent-meeting-2.webp","style":{"width":"49.5%","marginLeft":"0.5%","borderRadius":"8px","border":"1px solid #ccc"}}]]}]
+f:["$","h2",null,{"id":"其他软件","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["其他软件",["$","$L6",null,{"id":"其他软件"}]]}]
+10:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["下列较少使用的软件可以在 ",["$","a",null,{"href":"https://wxb.fzu.edu.cn/zbhrjgl.htm","target":"_blank","rel":"noreferrer","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":["福州大学 网信办正版化软件管理平台",[" ",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.7,"viewBox":"0 0 24 24","height":"1em","className":"x:inline x:align-baseline x:shrink-0","children":[["$","path",null,{"d":"M7 17L17 7"}],["$","path",null,{"d":"M7 7h10v10"}]]}]]]}]," 获取"]}]
+11:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"银河麒麟操作系统"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"统信桌面操作系统"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"WPS信创版本"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"中望CAD"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"中国卡伦特在线CAD"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"等"}],"\n"]}]
+12:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["当然，许多软件也都能凭教育邮箱获取，关于教育邮箱可以参考 ",["$","$L15",null,{"href":"vpnmail","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"教育邮箱"}]," 页面，下面是列举的一些有提供教育邮箱获取的正版化软件："]}]
+13:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Microsoft 365（包括 Word、Excel、PowerPoint 等）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"JetBrains 系列（包括 IntelliJ IDEA、PyCharm 等）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Autodesk 系列（包括 AutoCAD、Maya 等）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Notion"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Figma"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"等"}],"\n"]}]
+14:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+18:null

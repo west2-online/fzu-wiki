@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[55169,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"TOCProvider"]
+3:I[769,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"Sidebar"]
+4:I[47486,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ClientWrapper"]
+23:I[63894,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"HeadingAnchor"]
+24:I[26579,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fa436d6238298ba2.js","/_next/static/chunks/b6eececce9985c08.js","/_next/static/chunks/221c4400b3776211.js"],"ImageZoom"]
+25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+26:"$Sreact.suspense"
+5:T951,import { Callout } from 'nextra/components';
+
+# 入学准备
+
+<Callout type="warning">页面内容正在逐步完善中...</Callout>
+
+<Callout type="info">
+  本部分内容大致按照时间顺序排列，可以使用页面上的目录进行快速跳转。
+</Callout>
+
+## 收到通知书以后
+
+### 加入学院 QQ 群
+
+请在随通知书邮寄的《入学指南》上的入学须知上找到各个学院的 QQ 群，请及时加入方便后续通知的接收。
+
+### 个人档案
+
+**高中毕业生档案属于保密文件，不得私自拆封。**
+
+入学前需要在所在的高中领取档案或者办理统一邮寄。
+
+如果选择自己携带，请于报到时交给学校。<br />
+如果选择统一邮寄，请根据通知书上各学院的收件地址寄送。
+
+### 缴纳学费
+
+请在收到通知书后，持所附的银行卡尽快前往附近的建设银行网点激活。
+
+在激活后几天会收到如下图所示的短信，请按照要求同意扣款即可。
+
+![](/freshmen-1.webp)
+
+在月末会收到扣款短信，表示成功扣除学费：
+
+![](/freshmen-2.webp)
+
+## 新生报到
+
+### 关于家长陪同
+
+新生入学的时候家长可以陪同，也可以进宿舍。
+
+车辆入校需要提前在「智汇福大」系统上报备。
+
+### 提交资料
+
+报到时需要准备的资料：
+
+（待补充）
+
+### 宿舍床位
+
+福大的宿舍床位是学校统一安排的，不可以自行调换。
+
+### 准备的物品
+
+#### 随身携带
+
+- 几套当季随身衣物
+- 棉签、小医药包：创可贴、清凉油、肠胃药、布洛芬、感冒药、跌打损伤药、碘伏、口罩
+- 卫生纸、湿巾、卫生巾
+- 雨伞
+- 四件套、被子、床垫、凉席
+- 小件洗漱用品
+- 水杯
+- 发圈、发卡
+
+#### 邮寄/到学校再买
+
+- 非当季衣物、帽子、鞋袜
+- 床帘
+- 衣架、挂钩、晾衣架
+- 垃圾桶+袋
+- 牛皮纸袋（可收纳桌面、抽屉空间）
+- 桌面收纳盒
+- 抽纸、卷纸
+- 热水壶
+- 台灯
+- 手机/电脑支架
+- 锁
+- 化妆品、护肤品
+- 小风扇
+- 鞋架
+- 折叠小桌板
+- 插排（最好选择多个接口的）
+- 洗漱用品：洗发水、洗面奶、沐浴露、香皂、香皂盒、
+- 浴巾、洗脸巾、干发帽、洗漱杯
+- 洗衣粉、洗衣液、洗衣凝珠
+- 数码产品及其充电器、数据线
+- 充电宝
+- 电吹风
+- 鞋垫（军训鞋超硬）
+- 梳子/化妆镜
+- 花露水0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L2",null,{"value":[{"value":"收到通知书以后","id":"收到通知书以后","depth":2},{"value":"加入学院 QQ 群","id":"加入学院-qq-群","depth":3},{"value":"个人档案","id":"个人档案","depth":3},{"value":"缴纳学费","id":"缴纳学费","depth":3},{"value":"新生报到","id":"新生报到","depth":2},{"value":"关于家长陪同","id":"关于家长陪同","depth":3},{"value":"提交资料","id":"提交资料","depth":3},{"value":"宿舍床位","id":"宿舍床位","depth":3},{"value":"准备的物品","id":"准备的物品","depth":3},{"value":"随身携带","id":"随身携带","depth":4},{"value":"邮寄/到学校再买","id":"邮寄到学校再买","depth":4}],"children":[["$","$L3",null,{}],["$","$L4",null,{"metadata":{"title":"入学准备","filePath":"content/freshmen/prepare.mdx","timestamp":1773049549000},"sourceCode":"$5","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["入学准备","$undefined"]}],"\n",["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-yellow-50 x:dark:bg-yellow-700/30 x:text-yellow-700 x:dark:text-yellow-500 x:border-yellow-700","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":{"fontFamily":"\"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""},"data-pagefind-ignore":"all","children":["$","svg",null,{"viewBox":"0 0 16 16","fill":"currentColor","height":".8em","className":"x:mt-[.3em]","children":["$","path",null,{"d":"M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"}]}]}],["$","div",null,{"className":"x:w-full x:min-w-0","children":"页面内容正在逐步完善中…"}]]}],"\n",["$","div",null,{"className":"nextra-callout x:overflow-x-auto x:not-first:mt-[1.25em] x:flex x:rounded-lg x:border x:py-[.5em] x:pe-[1em] x:contrast-more:border-current! x:bg-blue-100 x:dark:bg-blue-900/30 x:text-blue-700 x:dark:text-blue-400 x:border-blue-700 x:dark:border-blue-600","children":[["$","div",null,{"className":"x:select-none x:text-[1.25em] x:ps-[.6em] x:pe-[.4em]","style":{"fontFamily":"\"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""},"data-pagefind-ignore":"all","children":["$","svg",null,{"viewBox":"0 0 16 16","fill":"currentColor","height":".8em","className":"x:mt-[.3em]","children":["$","path",null,{"d":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"}]}]}],"$L6"]}],"\n","$L7","\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21"]}]]}]]}]}],null,"$L22"]}],"loading":null,"isPartial":false}
+6:["$","div",null,{"className":"x:w-full x:min-w-0","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"本部分内容大致按照时间顺序排列，可以使用页面上的目录进行快速跳转。"}]}]
+7:["$","h2",null,{"id":"收到通知书以后","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["收到通知书以后",["$","$L23",null,{"id":"收到通知书以后"}]]}]
+8:["$","h3",null,{"id":"加入学院-qq-群","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["加入学院 QQ 群",["$","$L23",null,{"id":"加入学院-qq-群"}]]}]
+9:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"请在随通知书邮寄的《入学指南》上的入学须知上找到各个学院的 QQ 群，请及时加入方便后续通知的接收。"}]
+a:["$","h3",null,{"id":"个人档案","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["个人档案",["$","$L23",null,{"id":"个人档案"}]]}]
+b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"高中毕业生档案属于保密文件，不得私自拆封。"}]}]
+c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"入学前需要在所在的高中领取档案或者办理统一邮寄。"}]
+d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["如果选择自己携带，请于报到时交给学校。",["$","br",null,{}],"\n如果选择统一邮寄，请根据通知书上各学院的收件地址寄送。"]}]
+e:["$","h3",null,{"id":"缴纳学费","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["缴纳学费",["$","$L23",null,{"id":"缴纳学费"}]]}]
+f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"请在收到通知书后，持所附的银行卡尽快前往附近的建设银行网点激活。"}]
+10:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"在激活后几天会收到如下图所示的短信，请按照要求同意扣款即可。"}]
+11:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","$L24",null,{"placeholder":"blur","src":{"src":"/_next/static/media/freshmen-1.88a5ec5f.webp","width":1515,"height":682,"blurWidth":8,"blurHeight":4,"blurDataURL":"data:image/webp;base64,UklGRsYAAABXRUJQVlA4TLoAAAAvB8AAAM1VICICHgiwCQAAAICqIoQAAkQdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJSKIgdQB0AAMADgbABAAAAOP8CMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgAMIDlgYCcAAAAAJz/7QUFIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABUsIvcLc+zIKnAQaA0GP6yBz316NUf7xKrdqFCVSG5YGf/mxlQVgijYJpb3wE="}}]}]
+12:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"在月末会收到扣款短信，表示成功扣除学费："}]
+13:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","$L24",null,{"placeholder":"blur","src":{"src":"/_next/static/media/freshmen-2.70254b6b.webp","width":1204,"height":296,"blurWidth":8,"blurHeight":2,"blurDataURL":"data:image/webp;base64,UklGRqoAAABXRUJQVlA4TJ4AAAAvB0AAAM1VICICHgggAQAAAAC/GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANgBPxgeAADAA4EEAAAAADj/CgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvgWAaAAAAAJz/AsABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOHQIrlzi6N48MauGPBk6SIqRjsWAQ=="}}]}]
+14:["$","h2",null,{"id":"新生报到","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["新生报到",["$","$L23",null,{"id":"新生报到"}]]}]
+15:["$","h3",null,{"id":"关于家长陪同","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["关于家长陪同",["$","$L23",null,{"id":"关于家长陪同"}]]}]
+16:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"新生入学的时候家长可以陪同，也可以进宿舍。"}]
+17:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"车辆入校需要提前在「智汇福大」系统上报备。"}]
+18:["$","h3",null,{"id":"提交资料","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["提交资料",["$","$L23",null,{"id":"提交资料"}]]}]
+19:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"报到时需要准备的资料："}]
+1a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"（待补充）"}]
+1b:["$","h3",null,{"id":"宿舍床位","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["宿舍床位",["$","$L23",null,{"id":"宿舍床位"}]]}]
+1c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"福大的宿舍床位是学校统一安排的，不可以自行调换。"}]
+1d:["$","h3",null,{"id":"准备的物品","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["准备的物品",["$","$L23",null,{"id":"准备的物品"}]]}]
+1e:["$","h4",null,{"id":"随身携带","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-xl","children":["随身携带",["$","$L23",null,{"id":"随身携带"}]]}]
+1f:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"几套当季随身衣物"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"棉签、小医药包：创可贴、清凉油、肠胃药、布洛芬、感冒药、跌打损伤药、碘伏、口罩"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"卫生纸、湿巾、卫生巾"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"雨伞"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"四件套、被子、床垫、凉席"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"小件洗漱用品"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"水杯"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"发圈、发卡"}],"\n"]}]
+20:["$","h4",null,{"id":"邮寄到学校再买","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-xl","children":["邮寄/到学校再买",["$","$L23",null,{"id":"邮寄到学校再买"}]]}]
+21:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"非当季衣物、帽子、鞋袜"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"床帘"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"衣架、挂钩、晾衣架"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"垃圾桶+袋"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"牛皮纸袋（可收纳桌面、抽屉空间）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"桌面收纳盒"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"抽纸、卷纸"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"热水壶"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"台灯"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"手机/电脑支架"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"锁"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"化妆品、护肤品"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"小风扇"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"鞋架"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"折叠小桌板"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"插排（最好选择多个接口的）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"洗漱用品：洗发水、洗面奶、沐浴露、香皂、香皂盒、"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"浴巾、洗脸巾、干发帽、洗漱杯"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"洗衣粉、洗衣液、洗衣凝珠"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"数码产品及其充电器、数据线"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"充电宝"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"电吹风"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"鞋垫（军训鞋超硬）"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"梳子/化妆镜"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"花露水"}],"\n"]}]
+22:["$","$L25",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+27:null
