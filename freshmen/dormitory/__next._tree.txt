@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/221ce6682042a4f8.css","style"]
+:HL["/_next/static/chunks/0xomvw0-9r-gw.css","style"]
 :HL["/freshmen-dormitory-tongpan.gif","image"]
 :HL["/freshmen-dormitory-tongpan-1.webp","image"]
 :HL["/freshmen-dormitory-tongpan-2.webp","image"]
-0:{"buildId":"qShaWuipt-sCjfrfzQixd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mdxPath","paramType":"oc","paramKey":"freshmen/dormitory","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mdxPath","param":{"type":"oc","key":"freshmen/dormitory","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_O1GUnqu5EnuHd47L1-GL"}
