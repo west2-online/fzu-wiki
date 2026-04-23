@@ -2,4 +2,4 @@
 :HL["/freshmen-dormitory-tongpan.gif","image"]
 :HL["/freshmen-dormitory-tongpan-1.webp","image"]
 :HL["/freshmen-dormitory-tongpan-2.webp","image"]
-0:{"buildId":"gDeeJS-sAlRiUcJVa_r63","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mdxPath","paramType":"oc","paramKey":"freshmen/dormitory","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"qShaWuipt-sCjfrfzQixd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mdxPath","paramType":"oc","paramKey":"freshmen/dormitory","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
