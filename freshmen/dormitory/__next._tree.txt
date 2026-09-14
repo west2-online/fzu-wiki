@@ -2,4 +2,4 @@
 :HL["/freshmen-dormitory-tongpan.gif","image"]
 :HL["/freshmen-dormitory-tongpan-1.webp","image"]
 :HL["/freshmen-dormitory-tongpan-2.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"mdxPath","param":{"type":"oc","key":"freshmen/dormitory","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"1isVDxQmVAuIhsGmotZVs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"mdxPath","param":{"type":"oc","key":"freshmen/dormitory","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"zEd6wOoB4aVBHojFMUkU9"}
